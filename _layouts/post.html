@@ -3,7 +3,7 @@
     <head>
 
         {%- include head.html -%}
-        {% include reading-time.html %}
+        
         {% if page.previous %}
             <link rel="prev" href="{{site.baseurl}}{{page.previous.url}}" />
         {% else %}
@@ -30,6 +30,7 @@
                             <a href="." >{{ site.title | escape }}</a>
                         {% endif %}
                     </h1>
+                    <h3> {% include reading-time.html %} </h3>
                 </div>
 
                 <div class="body-inner">
