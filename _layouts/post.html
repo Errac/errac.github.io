@@ -31,8 +31,8 @@
                         {% endif %}
                     </h1>
                 </div>
-                <div> <h2> {% include reading-time.html %} </h2></div>
                 <div class="body-inner">
+                    {% include reading-time.html %}
                     {%- include body.html -%}
 
                     {% if page.previous %}
