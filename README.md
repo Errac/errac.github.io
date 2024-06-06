@@ -6,3 +6,4 @@ Na missão de escrever algo que você queira ler.
 - **Bar do Walter**, *um porre de crônicas num boteco falido* [crônicas]
 - **Occulta**, *worldbuilding de RPG num setting inspirado em histórias de yokai* [wuxia]
 - **Un Réquiem por la Santidad**, *um país abandonado pela fé, destruído por heresias* [dark country]
+- **Ruínas**, *pequenos textos inspirados em livros clássicos e angeologia* [microconto]
