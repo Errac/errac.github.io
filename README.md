@@ -1,5 +1,3 @@
-# ❁ Rabiscos
-
 Registros de uma missão de escrever algo que você queira ler.
 
 # ❁ Sumário
