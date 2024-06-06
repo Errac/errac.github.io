@@ -20,7 +20,6 @@
             {%- include toc-date.html -%}
 
             <div class="book-body">
-                {% include reading-time.html %}
                 <div class="book-header" role="navigation">
                     <!-- Title -->
                     <h1>
@@ -59,6 +58,7 @@
                 gitbook.page.hasChanged({%- include metadata-post.json.tpl -%});
             });
             </script>
+            {% include reading-time.html %}
         </div>
 
         {%- include footer.html -%}
