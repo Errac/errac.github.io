@@ -20,6 +20,7 @@
             {%- include toc-date.html -%}
 
             <div class="book-body">
+                {% include reading-time.html %}
                 <div class="book-header" role="navigation">
                     <!-- Title -->
                     <h1>
@@ -32,7 +33,6 @@
                     </h1>
                 </div>
                 <div class="body-inner">
-                    {% include reading-time.html %}
                     {%- include body.html -%}
 
                     {% if page.previous %}
